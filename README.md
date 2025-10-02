@@ -1,12 +1,4 @@
- 
-
-<!--
-**OrbinaGate/OrbinaGate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# Orbina Gate
+# Orbina Gate
 
 🚀 **Orbina Gate DEX** simplifies DeFi with lightning-fast, user-friendly perpetual trading on Solana’s high-performance blockchain.  
 Dive into frictionless markets, real-time data, and a smooth trading experience!
@@ -42,11 +34,3 @@ By combining Solana’s unmatched transaction speed with a clean user experience
 ```bash
 git clone https://github.com/your-username/OrbinaGate.git
 cd OrbinaGate
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
